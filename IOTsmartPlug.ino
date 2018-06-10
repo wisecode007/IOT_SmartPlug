@@ -53,8 +53,8 @@ void loop() {
     uri += "&field2=";
     uri += String(Humi);
     
-//    uri += "&field3=";
-//    uri += String(Light);
+   uri += "&field3=";
+   uri += String(Light);
 
     uri += "&field4=";
     uri += String(Motion);
