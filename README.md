@@ -10,8 +10,18 @@ Using Arduino Uno WIFI with the following Components:
 
 # Code Review
 
-
-
+In the following block of code, 
+```C++
+ if (Temp > /*wanted temperature*/){               
+    if(Light > /*wanted light sensetivity*/){   
+      if(Motion == /*0 OR 1*/){  
+        digitalWrite(relayPin, LOW);    //disable the power socket
+      }
+    }
+  }
+  else
+    digitalWrite(relayPin, HIGH);
+```
 
 
 
