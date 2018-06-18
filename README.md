@@ -8,6 +8,7 @@ Using Arduino Uno WIFI with the following Components:
 # Connections Map
 ![](https://github.com/wisecode007/IOT_SmartPlug/blob/master/OthersFiles/SmartSocket.jpg)
 
+# Code Review
 
 
 
