@@ -27,6 +27,8 @@ In the following block of code, we are doing the automation of the power plug by
 ```
 
 
+In the next block of code, we can
+
 
 
 IOT Course, College of Mangment Academic Studies, 2017-2018
