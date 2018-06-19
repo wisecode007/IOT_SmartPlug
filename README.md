@@ -10,7 +10,10 @@ Using Arduino Uno WIFI with the following Components:
 
 # Code Review
 
-In the following block of code, 
+In the following block of code, we are doing the automation of the power plug by 3 conditions:
+* Temperature - The temperature is in c°
+* Light - The light sensetivity is between 1 to 1023.
+* Motion - 0 for no movment, 1 for movment
 ```C++
  if (Temp > /*wanted temperature*/){               
     if(Light > /*wanted light sensetivity*/){   
