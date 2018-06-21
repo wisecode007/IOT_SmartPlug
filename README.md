@@ -8,6 +8,18 @@ Using Arduino Uno WIFI with the following Components:
 # Connections Map
 <img src="https://github.com/wisecode007/IOT_SmartPlug/blob/master/OthersFiles/SmartSocket.jpg" width="750" height="750">
 
+The connections pins as shown above in the image:
+* DHT11 Signal - Digital 2      (INPUT): Blue Wire.
+* RIP Signal - Digital 3        (INPUT): Yellow Wire.
+* LDR Signal - Analog 4         (INPUT): Gray Wire.
+* 5V Relay - Digital 5          (OUTPUT): Orange Wire.
+
+They are all connected to 5V power - Red Wire, and ground - Black Wire.
+
+(The LDR is connected to a 100K resistor for power redacting)
+
+
+
 # Code Review
 
 In the following block of code, we are doing the automation of the power plug by 3 conditions:
