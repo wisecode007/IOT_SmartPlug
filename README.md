@@ -6,7 +6,7 @@ Using Arduino Uno WIFI with the following Components:
 * RIP Motion Sensor
 * 5V Relay
 # Connections Map
-![](https://github.com/wisecode007/IOT_SmartPlug/blob/master/OthersFiles/SmartSocket.jpg)
+<img src="https://github.com/wisecode007/IOT_SmartPlug/blob/master/OthersFiles/SmartSocket.jpg" width="650" height="650">
 
 # Code Review
 
