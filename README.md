@@ -43,4 +43,6 @@ In the next block of code, we can
 
 
 
+You Can see more pictures of the project in the OthersFiles folder.
+
 IOT Course, College of Mangment Academic Studies, 2017-2018
